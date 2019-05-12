@@ -1,5 +1,5 @@
 [package]
-authors = ["Aaron Cook <cookx770@umn.edu>"]
+authors = ["Aaron Cook <aarongregorycook@gmail.com>"]
 edition = "2018"
 readme = "README.md"
 name = "qemu-test"
